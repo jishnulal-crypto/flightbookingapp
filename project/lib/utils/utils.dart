@@ -1,0 +1,1 @@
+enum SearchCategory { to, from, departure }
